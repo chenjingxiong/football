@@ -1,0 +1,13 @@
+{
+ "wshost":"0.0.0.0:8080",
+ "dynamicdns":"root:Wnr*JS4*qUyy95ll@tcp(192.168.20.126:3306)/football_dynamic?charset=utf8&timeout=10s",
+ "staticdns":"root:Wnr*JS4*qUyy95ll@tcp(192.168.20.126:3306)/football_static?charset=utf8&timeout=10s",
+ "logindns":"root:Wnr*JS4*qUyy95ll@tcp(192.168.20.126:3306)/football_login?charset=utf8&timeout=10s",
+ "recorddns":"root:Wnr*JS4*qUyy95ll@tcp(192.168.20.126:3306)/football_record?charset=utf8&timeout=10s",
+ "minloglevel":1,
+ "dbmaxidleconns":500,
+ "runkey":"*5238113F69CFFCAFDAC75D7F0CC3174B2CF3C262",
+ "openservertime":"2014-04-01 12:00:00",
+ "serverid":10001,
+ "isneedactivitcode":0
+}

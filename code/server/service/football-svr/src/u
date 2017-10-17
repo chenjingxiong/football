@@ -1,0 +1,6 @@
+killall src
+svn update
+./ver32 . v football/ver.go
+rm -f src
+go build -gcflags "-N -l"
+gdb -ex=run src
